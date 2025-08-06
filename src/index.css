@@ -1,0 +1,16 @@
+/* src/App.css */
+body {
+  margin: 0;
+  font-family: 'Outfit', sans-serif;
+  background-color: #111;
+  color: white;
+}
+
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  text-align: center;
+}
